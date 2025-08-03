@@ -16,7 +16,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,postgres,mysql,git,docker,postman,rest,jwt,redis,nginx,mongoose,prisma,jest,helmet,cors,pm2,newrelic,sentry,githubactions,swagger,graphql,apollo,rabbitmq,kafka,vitest,supertest,sinon,linux" height="100" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,postgres,mysql,git,docker,postman,rest,jwt,redis,nginx,mongoose,prisma,jest,helmet,cors,pm2,newrelic,sentry,githubactions,swagger,graphql,apollo,rabbitmq,kafka,vitest,supertest,sinon,linux" height="150" />
 </p>
 
 ---
