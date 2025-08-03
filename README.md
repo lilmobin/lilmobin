@@ -16,7 +16,19 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,postgres,mysql,git,docker,postman,rest,jwt,redis,nginx,mongoose,prisma,jest,helmet,cors,pm2,newrelic,sentry,githubactions,swagger,graphql,apollo,rabbitmq,kafka,vitest,supertest,sinon,linux" height="150" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,postgres,mysql,git,docker,postman,redis,nginx,prisma,jest,graphql,linux,githubactions,vitest" height="70" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Helmet.js-223344?style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/CORS-000000?style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="70" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Supertest-0A0A0A?style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/Sinon-DF674D?style=for-the-badge" height="70" />
 </p>
 
 ---
