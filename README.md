@@ -15,8 +15,29 @@
 ---
 ## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,postgres,mysql,git,docker,postman,redis,nginx,prisma,jest,graphql,linux,githubactions,vitest" height="70" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
+
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=javascript" height="70" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="70" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
+  <img src="https://skillicons.dev/icons?i=express" height="70" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="70" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="70" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" />
+  <img src="https://skillicons.dev/icons?i=git" height="70" />
+  <img src="https://skillicons.dev/icons?i=docker" height="70" />
+  <img src="https://skillicons.dev/icons?i=postman" height="70" />
+  <img src="https://skillicons.dev/icons?i=redis" height="70" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="70" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="70" />
+  <img src="https://skillicons.dev/icons?i=jest" height="70" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="70" />
+  <img src="https://skillicons.dev/icons?i=linux" height="70" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="70" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="70" />
+
+  <!-- Shields.io badges -->
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="70" />
   <img src="https://img.shields.io/badge/Helmet.js-223344?style=for-the-badge" height="70" />
   <img src="https://img.shields.io/badge/CORS-000000?style=for-the-badge" height="70" />
@@ -29,7 +50,8 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="70" />
   <img src="https://img.shields.io/badge/Supertest-0A0A0A?style=for-the-badge" height="70" />
   <img src="https://img.shields.io/badge/Sinon-DF674D?style=for-the-badge" height="70" />
-</p>
+
+</div>
 
 ---
 
