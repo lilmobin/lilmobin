@@ -15,13 +15,13 @@
 ---
 ## 🧠 Tech Stack
 
-### 🗣 Languages
+<h3 align="center">🗣 Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript" height="40" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" />
 </p>
 
-### 🚀 Frameworks & Libraries
+<h3 align="center">🚀 Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="40" />
 </p>
 
-### 🗃️ Databases
+<h3 align="center">🗃️ Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=redis" height="40" />
 </p>
 
-### ⚙️ Deployment & DevOps
+<h3 align="center">⚙️ Deployment & DevOps</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="40" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" />
@@ -48,13 +48,13 @@
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" />
 </p>
 
-### 🧪 Testing
+<h3 align="center">🧪 Testing</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jest" height="40" />
   <img src="https://skillicons.dev/icons?i=vitest" height="40" />
 </p>
 
-### 🧰 Tools & Utilities
+<h3 align="center">🧰 Tools & Utilities</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
@@ -62,7 +62,6 @@
   <img src="https://skillicons.dev/icons?i=swagger" height="40" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" />
 </p>
-
 
 ---
 
