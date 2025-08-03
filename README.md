@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="70" />
   <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white" height="70" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="70" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="70" />
   <img src="https://img.shields.io/badge/Supertest-0A0A0A?style=for-the-badge" height="70" />
   <img src="https://img.shields.io/badge/Sinon-DF674D?style=for-the-badge" height="70" />
 
