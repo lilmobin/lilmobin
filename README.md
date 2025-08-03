@@ -22,6 +22,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" height="70" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
   <img src="https://skillicons.dev/icons?i=express" height="70" />
+  <img src="https://skillicons.dev/icons?i=express" height="70" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="70" />
   <img src="https://skillicons.dev/icons?i=postgres" height="70" />
   <img src="https://skillicons.dev/icons?i=mysql" height="70" />
