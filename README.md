@@ -14,73 +14,72 @@
 
 ---
 ## 🧠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-Languages-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-</p>
+
+### <div align="center">Languages</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Frameworks%20%26%20Runtime-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Databases-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
-</p>
+### <div align="center">Back-End Frameworks & Libraries</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-ORM%20%26%20ODM-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Auth%20%26%20Security-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/CORS-000000?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helmet.js-000000?style=for-the-badge&logo=helmet&logoColor=white" />
-</p>
+### <div align="center">Databases & ORM</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Tools%20%26%20DevOps-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" height="40" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=MongoDB&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Testing-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" />
-  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=supertest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-</p>
+### <div align="center">Authentication & Security</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Monitoring%20%26%20Logging-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bcrypt-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Helmet.js-223344?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CORS-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RateLimiter-6DB33F?style=for-the-badge" />
 </p>
 
+### <div align="center">API & Documentation</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Docs%20%26%20API%20Design-ffffff?style=for-the-badge&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/REST-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
 </p>
 
+### <div align="center">Testing</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Message%20Queues-ffffff?style=for-the-badge&logoColor=black" /><br/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" />
+  <img src="https://img.shields.io/badge/Supertest-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge" />
+</p>
+
+### <div align="center">DevOps & Deployment</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,vercel" height="40" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+### <div align="center">Monitoring & Logging</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge" />
+</p>
+
+### <div align="center">Tools</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="40" />
 </p>
 
 ---
