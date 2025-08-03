@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="70" />
   <img src="https://skillicons.dev/icons?i=mysql" height="70" />
   <img src="https://skillicons.dev/icons?i=git" height="70" />
+  <img src="https://skillicons.dev/icons?i=npm" height="70" />
   <img src="https://skillicons.dev/icons?i=docker" height="70" />
   <img src="https://skillicons.dev/icons?i=postman" height="70" />
   <img src="https://skillicons.dev/icons?i=redis" height="70" />
