@@ -6,83 +6,63 @@
 
 ---
 
-### 🧠 About Me
+### 🖋 About Me
 
 - 🚀 I'm a backend developer with a focus on building high-performance RESTful APIs using **Node.js** and **Express**.
 - 🎯 I love solving real-world problems and writing scalable, maintainable code.
 - 🧰 I regularly use testing, validation, security, and documentation tools to deliver clean backends.
 
 ---
-## 💼 Tech Stack
+## 🧠 Tech Stack
 
-### 🛠️ Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
+### 🗣 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" />
 </p>
 
-### 🧱 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=nestjs" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=sass" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=socketio" height="40" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" />
 </p>
 
-### 🔌 Databases & ORMs
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=redis" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=supabase" />
-  <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://skillicons.dev/icons?i=sequelize" />
+### 🗃️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" />
 </p>
 
-### 📡 APIs & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=swagger" />
-  <img src="https://skillicons.dev/icons?i=rest" />
+### ⚙️ Deployment & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" />
 </p>
 
 ### 🧪 Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=jest" />
-  <img src="https://skillicons.dev/icons?i=vitest" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest" height="40" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" />
 </p>
 
-### ⚙️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
-  <img src="https://skillicons.dev/icons?i=nginx" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
+### 🧰 Tools & Utilities
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=swagger" height="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" />
 </p>
 
-### ☁️ Deployment & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://skillicons.dev/icons?i=netlify" />
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" />
-</p>
-
-### 🧰 Code Quality & Utils
-<p>
-  <img src="https://skillicons.dev/icons?i=eslint" />
-  <img src="https://skillicons.dev/icons?i=prettier" />
-</p>
 
 ---
 
