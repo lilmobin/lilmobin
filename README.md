@@ -15,52 +15,8 @@
 ---
 ## 🧠 Tech Stack
 
-### <div align="center">Languages</div>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript" />
-</p>
-
-### <div align="center">Back-End Frameworks & Libraries</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" />
-</p>
-
-### <div align="center">Databases & ORM</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-</p>
-
-### <div align="center">Authentication & Security</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jwt" />
-</p>
-
-### <div align="center">API & Docs</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql" />
-</p>
-
-### <div align="center">Testing</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest" />
-</p>
-
-### <div align="center">DevOps & Deployment</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,vercel" />
-</p>
-
-### <div align="center">Tools</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,postgres,mysql,git,docker,postman,rest,jwt,redis,nginx,mongoose,prisma,jest,helmet,cors,pm2,newrelic,sentry,githubactions,swagger,graphql,apollo,rabbitmq,kafka,vitest,supertest,sinon,linux" height="40" />
 </p>
 
 ---
