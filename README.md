@@ -36,7 +36,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="70" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="70" />
   <img src="https://skillicons.dev/icons?i=vitest" height="70" />
-
+  <img src="https://skillicons.dev/icons?i=figma" height="70" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="70" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="70" />
+  <img src="https://skillicons.dev/icons?i=pug" height="70" />
   <!-- Shields.io badges -->
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="70" />
   <img src="https://img.shields.io/badge/Helmet.js-223344?style=for-the-badge" height="70" />
