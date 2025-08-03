@@ -13,11 +13,75 @@
 - 🧰 I regularly use testing, validation, security, and documentation tools to deliver clean backends.
 
 ---
+## 💼 Tech Stack
 
-### 💼 Tech Stack
+### 🛠️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,mongodb,postgres,redis,docker,git,linux,postman,nginx,prisma,vscode,github" />
+### 🧱 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+### 🔌 Databases & ORMs
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=sequelize" />
+</p>
+
+### 📡 APIs & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=swagger" />
+  <img src="https://skillicons.dev/icons?i=rest" />
+</p>
+
+### 🧪 Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+  <img src="https://skillicons.dev/icons?i=vitest" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=nginx" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+### ☁️ Deployment & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
+
+### 🧰 Code Quality & Utils
+<p>
+  <img src="https://skillicons.dev/icons?i=eslint" />
+  <img src="https://skillicons.dev/icons?i=prettier" />
 </p>
 
 ---
@@ -25,8 +89,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilmobin&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilmobin&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lilmobin&show_icons=true&theme=tokyonight" height="150"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=lilmobin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
