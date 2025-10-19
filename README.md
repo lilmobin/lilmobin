@@ -17,7 +17,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
 
-  <!-- Skillicons -->
+  <!-- Skillicons
   <img src="https://skillicons.dev/icons?i=javascript" height="70" />
   <img src="https://skillicons.dev/icons?i=typescript" height="70" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
@@ -40,9 +40,9 @@
   <img src="https://skillicons.dev/icons?i=vitest" height="70" />
   <img src="https://skillicons.dev/icons?i=figma" height="70" />
   <img src="https://skillicons.dev/icons?i=kafka" height="70" />
-  <!--img src="https://skillicons.dev/icons?i=nextjs" height="70" /-->
+  <!--img src="https://skillicons.dev/icons?i=nextjs" height="70" /
   <img src="https://skillicons.dev/icons?i=pug" height="70" />
-  <!-- Shields.io badges -->
+  <!-- Shields.io badges 
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="70" />
   <img src="https://img.shields.io/badge/Helmet.js-223344?style=for-the-badge" height="70" />
   <img src="https://img.shields.io/badge/CORS-000000?style=for-the-badge" height="70" />
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Sinon-DF674D?style=for-the-badge" height="70" />
 
 </div>
-
+ -->
 ---
 
 ### 📈 GitHub Stats
